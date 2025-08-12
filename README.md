@@ -1,6 +1,8 @@
 # 🎬 Clone Simples do YouTube
 
 > Uma recriação **estilizada** da página inicial do YouTube, feita apenas com **HTML** e **CSS** ✨.
+>
+> 🔗 **Acesse o projeto online:** [YouTube Clone](https://rodrigues-jsilva.github.io/YouTube/)
 
 ---
 
