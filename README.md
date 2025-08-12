@@ -6,7 +6,7 @@
 
 ## 📸 Demonstração
 
-![Prévia do Projeto](https://via.placeholder.com/900x400?text=Preview+YouTube+Clone)  
+<img width="1342" height="638" alt="Captura de tela 2025-08-12 204242" src="https://github.com/user-attachments/assets/82231be3-ddb4-45ea-b03e-d7bd9db61aae" />
 *Interface inicial do projeto — barra de busca, vídeos sugeridos e layout clean.*
 
 ---
