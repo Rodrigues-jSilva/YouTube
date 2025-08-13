@@ -36,4 +36,4 @@
 📦 youtube-clone
  ┣ 📜 index.html   # Estrutura principal
  ┣ 📜 style.css    # Estilização
- ┗ 📂 assets       # Imagens e ícones
+
